@@ -28,10 +28,13 @@ driver.maximize_window()
 
 temp = []
 for index, article in enumerate(listArticle(driver, 1)):
-    time.sleep(random.uniform(0, 2))
-    article['id'] = index
-    article['content'] = articleContent(driver, article['url'])
-    temp.append(article)
-    print(temp)
+    try:
+        time.sleep(random.uniform(0, 2))
+        article['id'] = index + 1
+        article['content'] = articleContent(driver, article['url'])
+        temp.append(article)
+        print(temp)
+    except:
+        print('error at index ' + str(index))
 
 driver.quit()
