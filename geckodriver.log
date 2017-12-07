@@ -1,0 +1,280 @@
+1512631103055	geckodriver	INFO	Listening on 127.0.0.1:37343
+1512631104056	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.BcrQw2AHK7BC
+1512631104057	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1512631104061	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33961
+1512631104765	Marionette	INFO	Enabled via --marionette
+1512631107129	Marionette	INFO	Listening on port 33961
+1512631107331	Marionette	DEBUG	Register listener.js for window 2147483649
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 324: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 324: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1512632540953	geckodriver	INFO	Listening on 127.0.0.1:57695
+1512632541954	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.TDjKDLrZKuYP
+1512632541956	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1512632541959	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40597
+1512632542655	Marionette	INFO	Enabled via --marionette
+1512632545010	Marionette	INFO	Listening on port 40597
+1512632545210	Marionette	DEBUG	Register listener.js for window 2147483649
+1512632565082	geckodriver	INFO	Listening on 127.0.0.1:42235
+1512632566083	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.b6xFFEfLNCwC
+1512632566084	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1512632566088	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37285
+1512632566834	Marionette	INFO	Enabled via --marionette
+1512632569253	Marionette	INFO	Listening on port 37285
+1512632569450	Marionette	DEBUG	Register listener.js for window 2147483649
+1512632572981	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512632573875	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512632573876	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512632574679	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://github.com/"
+1512632575605	Marionette	DEBUG	Received DOM event "pageshow" for "https://github.com/"
+[Child 22770, Chrome_ChildThread] WARNING: pipe error (31): 連線被對方重設: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 22770, Chrome_ChildThread] WARNING: pipe error (16): 連線被對方重設: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 22770, Chrome_ChildThread] WARNING: pipe error (3): 連線被對方重設: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1512632633224	geckodriver	INFO	Listening on 127.0.0.1:34467
+1512632634226	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.K8Zb8jM0iPd4
+1512632634227	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1512632634231	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43989
+1512632634925	Marionette	INFO	Enabled via --marionette
+1512632637331	Marionette	INFO	Listening on port 43989
+1512632637407	Marionette	DEBUG	Register listener.js for window 2147483649
+1512632641016	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512632641805	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512632641805	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512632642391	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://github.com/"
+1512632643337	Marionette	DEBUG	Received DOM event "pageshow" for "https://github.com/"
+[Child 22976, Chrome_ChildThread] WARNING: pipe error (17): 連線被對方重設: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 22976, Chrome_ChildThread] WARNING: pipe error (31): 連線被對方重設: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 22976, Chrome_ChildThread] WARNING: pipe error (3): 連線被對方重設: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1512632681380	geckodriver	INFO	Listening on 127.0.0.1:54453
+1512632682379	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.TxNmSFGhhwoU
+1512632682381	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1512632682385	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37151
+1512632683107	Marionette	INFO	Enabled via --marionette
+1512632685719	Marionette	INFO	Listening on port 37151
+1512632685856	Marionette	DEBUG	Register listener.js for window 2147483649
+1512632689395	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512632689809	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512632689810	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512632690297	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.facebook.com/"
+[Parent 23100, Gecko_IOThread] WARNING: pipe error: 中斷的管線: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1512632691136	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.facebook.com/"
+[Child 23182, Chrome_ChildThread] WARNING: pipe error (31): 連線被對方重設: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 23182, Chrome_ChildThread] WARNING: pipe error (16): 連線被對方重設: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 23182, Chrome_ChildThread] WARNING: pipe error (3): 連線被對方重設: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1512633039205	geckodriver	INFO	Listening on 127.0.0.1:33173
+1512633040206	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.h91MHh0AqA8U
+1512633040207	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1512633040212	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45115
+1512633040905	Marionette	INFO	Enabled via --marionette
+1512633043336	Marionette	INFO	Listening on port 45115
+1512633043531	Marionette	DEBUG	Register listener.js for window 2147483649
+1512633047070	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512633047152	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512633047152	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://cache.ltn.com.tw/app/weather/js/weather.js?2017, line 161: unreachable code after return statement
+JavaScript warning: http://cache.ltn.com.tw/app/weather/js/weather.js, line 161: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1512633050094	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://news.ltn.com.tw/list/breakingnews/all/1"
+1512633051840	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1512633052494	Marionette	DEBUG	Received DOM event "pageshow" for "http://news.ltn.com.tw/list/breakingnews/all/1"
+[Child 23392, Chrome_ChildThread] WARNING: pipe error (31): 連線被對方重設: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 23392, Chrome_ChildThread] WARNING: pipe error (16): 連線被對方重設: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 23392, Chrome_ChildThread] WARNING: pipe error: 中斷的管線: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1512633286312	geckodriver	INFO	Listening on 127.0.0.1:38749
+1512633287312	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.bTdgfE7PZlD8
+1512633287314	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1512633287318	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43015
+1512633288076	Marionette	INFO	Enabled via --marionette
+1512633290649	Marionette	INFO	Listening on port 43015
+1512633290795	Marionette	DEBUG	Register listener.js for window 2147483649
+1512633294326	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512633295118	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512633295119	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://cache.ltn.com.tw/app/weather/js/weather.js?2017, line 161: unreachable code after return statement
+JavaScript warning: http://cache.ltn.com.tw/app/weather/js/weather.js, line 161: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1512633297192	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://news.ltn.com.tw/list/breakingnews/all/1"
+1512633298480	Marionette	DEBUG	Received DOM event "pageshow" for "http://news.ltn.com.tw/list/breakingnews/all/1"
+JavaScript error: https://www.facebook.com/rsrc.php/v3/yn/r/XbIuTAIs1e-.js, line 315: Error: The manifest specifies content that cannot be displayed on this browser/platform.
+1512633309828	geckodriver	INFO	Listening on 127.0.0.1:54297
+1512633310829	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.oiBq7HE1zerh
+1512633310830	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1512633310834	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45473
+1512633311639	Marionette	INFO	Enabled via --marionette
+1512633314165	Marionette	INFO	Listening on port 45473
+1512633314314	Marionette	DEBUG	Register listener.js for window 2147483649
+1512633317850	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512633317895	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512633317896	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://cache.ltn.com.tw/app/weather/js/weather.js?2017, line 161: unreachable code after return statement
+JavaScript warning: http://cache.ltn.com.tw/app/weather/js/weather.js, line 161: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1512633323456	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1512633325176	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://news.ltn.com.tw/list/breakingnews/all/1"
+JavaScript error: https://www.facebook.com/rsrc.php/v3/yn/r/XbIuTAIs1e-.js, line 315: Error: The manifest specifies content that cannot be displayed on this browser/platform.
+1512633326742	Marionette	DEBUG	Received DOM event "pageshow" for "http://news.ltn.com.tw/list/breakingnews/all/1"
+1512633396715	geckodriver	INFO	Listening on 127.0.0.1:45943
+1512633397716	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.GyTwbYbwpt1j
+1512633397717	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1512633397720	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44223
+1512633398496	Marionette	INFO	Enabled via --marionette
+1512633400954	Marionette	INFO	Listening on port 44223
+1512633401153	Marionette	DEBUG	Register listener.js for window 2147483649
+1512633404698	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512633404794	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512633404795	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://cache.ltn.com.tw/app/weather/js/weather.js?2017, line 161: unreachable code after return statement
+JavaScript warning: http://cache.ltn.com.tw/app/weather/js/weather.js, line 161: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1512633410655	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1512633411988	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://news.ltn.com.tw/list/breakingnews/all/1"
+1512633414550	Marionette	DEBUG	Received DOM event "pageshow" for "http://news.ltn.com.tw/list/breakingnews/all/1"
+JavaScript error: https://www.facebook.com/rsrc.php/v3/yn/r/XbIuTAIs1e-.js, line 315: Error: The manifest specifies content that cannot be displayed on this browser/platform.
+[Child 24022, Chrome_ChildThread] WARNING: pipe error (42): 連線被對方重設: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 24022, Chrome_ChildThread] WARNING: pipe error (31): 連線被對方重設: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 24022, Chrome_ChildThread] WARNING: pipe error (17): 連線被對方重設: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 24022, Chrome_ChildThread] WARNING: pipe error (3): 連線被對方重設: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1512633466912	geckodriver	INFO	Listening on 127.0.0.1:39861
+1512633467913	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.hGqGPTdgbpZR
+1512633467914	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1512633467917	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33581
+1512633468657	Marionette	INFO	Enabled via --marionette
+1512633471470	Marionette	INFO	Listening on port 33581
+1512633471683	Marionette	DEBUG	Register listener.js for window 2147483649
+1512633475223	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512633475386	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512633475387	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://cache.ltn.com.tw/app/weather/js/weather.js?2017, line 161: unreachable code after return statement
+JavaScript warning: http://cache.ltn.com.tw/app/weather/js/weather.js, line 161: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1512633482289	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://news.ltn.com.tw/list/breakingnews/all/1"
+1512633486780	Marionette	DEBUG	Received DOM event "pageshow" for "http://news.ltn.com.tw/list/breakingnews/all/1"
+[Child 24236, Chrome_ChildThread] WARNING: pipe error (42): 連線被對方重設: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 24236, Chrome_ChildThread] WARNING: pipe error (3): 連線被對方重設: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1512633673953	geckodriver	INFO	Listening on 127.0.0.1:43675
+1512633674953	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.lmYjPXeBSU9i
+1512633674954	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1512633674958	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45667
+1512633675707	Marionette	INFO	Enabled via --marionette
+1512633678379	Marionette	INFO	Listening on port 45667
+1512633678533	Marionette	DEBUG	Register listener.js for window 2147483649
+1512633682060	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512633682153	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512633682154	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://cache.ltn.com.tw/app/weather/js/weather.js?2017, line 161: unreachable code after return statement
+JavaScript warning: http://cache.ltn.com.tw/app/weather/js/weather.js, line 161: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1512633684145	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://news.ltn.com.tw/list/breakingnews/all/1"
+
+(/usr/lib/firefox/firefox:24461): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: 拒絕不符權限的操作
+1512633686997	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1512633687562	Marionette	DEBUG	Received DOM event "pageshow" for "http://news.ltn.com.tw/list/breakingnews/all/1"
+[Child 24461, Chrome_ChildThread] WARNING: pipe error (17): 連線被對方重設: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 24461, Chrome_ChildThread] WARNING: pipe error (31): 連線被對方重設: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 24461, Chrome_ChildThread] WARNING: pipe error: 中斷的管線: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1512633863513	geckodriver	INFO	Listening on 127.0.0.1:53165
+1512633864514	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.frERpRwtAuYh
+1512633864515	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1512633864519	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34497
+1512633865282	Marionette	INFO	Enabled via --marionette
+
+(/usr/lib/firefox/firefox:24695): Gdk-WARNING **: /usr/lib/firefox/firefox: Fatal IO error 11 (資源暫時無法取得) on X server :1041.
+
+1512633878043	geckodriver	INFO	Listening on 127.0.0.1:47447
+1512633879046	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.VuiwEcXH8WGS
+1512633879048	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1512633879051	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39485
+1512633879814	Marionette	INFO	Enabled via --marionette
+1512633882353	Marionette	INFO	Listening on port 39485
+1512633882532	Marionette	DEBUG	Register listener.js for window 2147483649
+1512633886068	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512633886156	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512633886156	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://cache.ltn.com.tw/app/weather/js/weather.js?2017, line 161: unreachable code after return statement
+JavaScript warning: http://cache.ltn.com.tw/app/weather/js/weather.js, line 161: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1512633888398	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://news.ltn.com.tw/list/breakingnews/all/1"
+1512633889937	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+
+(/usr/lib/firefox/firefox:24861): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: 拒絕不符權限的操作
+1512633891836	Marionette	DEBUG	Received DOM event "pageshow" for "http://news.ltn.com.tw/list/breakingnews/all/1"
+1512633899017	geckodriver	INFO	Listening on 127.0.0.1:43661
+1512633900016	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.a76eAlzMqzKk
+1512633900017	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1512633900020	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36059
+1512633900847	Marionette	INFO	Enabled via --marionette
+1512633903685	Marionette	INFO	Listening on port 36059
+1512633903810	Marionette	DEBUG	Register listener.js for window 2147483649
+1512633907362	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512633907406	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512633907406	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://cache.ltn.com.tw/app/weather/js/weather.js?2017, line 161: unreachable code after return statement
+JavaScript warning: http://cache.ltn.com.tw/app/weather/js/weather.js, line 161: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1512633909776	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://news.ltn.com.tw/list/breakingnews/all/1"
+1512633911352	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1512633911463	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1512633912949	Marionette	DEBUG	Received DOM event "pageshow" for "http://news.ltn.com.tw/list/breakingnews/all/1"
+[Child 25071, Chrome_ChildThread] WARNING: pipe error (42): 連線被對方重設: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 25071, Chrome_ChildThread] WARNING: pipe error (31): 連線被對方重設: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 25071, Chrome_ChildThread] WARNING: pipe error (15): 連線被對方重設: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 25071, Chrome_ChildThread] WARNING: pipe error: 中斷的管線: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1512633928164	geckodriver	INFO	Listening on 127.0.0.1:40369
+1512633929165	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.1Yco1ldm9dWB
+1512633929166	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1512633929169	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44559
+1512633929966	Marionette	INFO	Enabled via --marionette
+1512633932594	Marionette	INFO	Listening on port 44559
+1512633932845	Marionette	DEBUG	Register listener.js for window 2147483649
+1512633936373	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512633936416	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512633936417	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://cache.ltn.com.tw/app/weather/js/weather.js?2017, line 161: unreachable code after return statement
+JavaScript warning: http://cache.ltn.com.tw/app/weather/js/weather.js, line 161: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1512633969760	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://news.ltn.com.tw/list/breakingnews/all/1"
+1512633975046	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1512633975269	Marionette	DEBUG	Received DOM event "pageshow" for "http://news.ltn.com.tw/list/breakingnews/all/1"
+[Child 25273, Chrome_ChildThread] WARNING: pipe error (42): 連線被對方重設: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 25273, Chrome_ChildThread] WARNING: pipe error (3): 連線被對方重設: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1512634143398	geckodriver	INFO	Listening on 127.0.0.1:49227
+1512634144399	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.lOXtPgXoMx15
+1512634144400	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1512634144403	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35741
+1512634145211	Marionette	INFO	Enabled via --marionette
+1512634147687	Marionette	INFO	Listening on port 35741
+1512634147893	Marionette	DEBUG	Register listener.js for window 2147483649
+
+(/usr/lib/firefox/firefox:25502): Gdk-WARNING **: /usr/lib/firefox/firefox: Fatal IO error 11 (資源暫時無法取得) on X server :1053.
+
+1512634154584	geckodriver	INFO	Listening on 127.0.0.1:55041
+1512634155584	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.G9m9xbr0Yfrj
+1512634155586	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1512634155588	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38949
+1512634156388	Marionette	INFO	Enabled via --marionette
+1512634159042	Marionette	INFO	Listening on port 38949
+1512634159180	Marionette	DEBUG	Register listener.js for window 2147483649
+1512634162716	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512634162873	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512634162873	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://cache.ltn.com.tw/app/weather/js/weather.js?2017, line 161: unreachable code after return statement
+JavaScript warning: http://cache.ltn.com.tw/app/weather/js/weather.js, line 161: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1512634169578	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://news.ltn.com.tw/list/breakingnews/all/2"
+1512634171475	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1512634174804	Marionette	DEBUG	Received DOM event "pageshow" for "http://news.ltn.com.tw/list/breakingnews/all/2"
+[Child 25682, Chrome_ChildThread] WARNING: pipe error (42): 連線被對方重設: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 25682, Chrome_ChildThread] WARNING: pipe error (31): 連線被對方重設: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 25682, Chrome_ChildThread] WARNING: pipe error (17): 連線被對方重設: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 25682, Chrome_ChildThread] WARNING: pipe error: 中斷的管線: file /build/firefox-bfYN6l/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
